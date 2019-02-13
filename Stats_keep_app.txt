@@ -30,3 +30,6 @@ console.log(getTotalYards(totals)); //returns the total of rushYards, recYards, 
 //The dummy or 'lite' version should be like TurboTax. It's either 'this' or 'that'. yes or no. and then 'anything else?' (to add that it was a first down, or touchdown, or fumble, ect.)
 //Heavier versions could include more of the SID look/feel.
 //"Be Your Own SID"
+///blah blah blah git practice blah
+
+//Create functions and then assign them a variable to be used over and over. See "Functions as Date" in Codecademy.  
